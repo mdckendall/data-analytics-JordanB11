@@ -21,7 +21,7 @@ class Main {
       switch (choice) {
 
         case 1:
-          System.out.println("$93,345 average salary in South Florida");
+          System.out.println("$93,345 average salary in South Florida!");
           break;
 
         case 2:
@@ -29,7 +29,7 @@ class Main {
           break;
 
         case 3:
-          System.out.println("Top 10 Forbes In-Demand Jbos!");
+          System.out.println("Top 10 Forbes In-Demand Jobs!");
           break;
 
         case 4:
